@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background: linear-gradient(gray, rgb(216, 192, 214));
+    text-align: center;
+    background-image: url('unnamed.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    color: rgb(31, 29, 29);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+h1 {
+    background: linear-gradient(rgb(124, 190, 111), rgb(102, 196, 191));
+    color: white;
+    padding: 10px;
+}
+
+button {
+    margin: 10px;
+    font-weight: bold;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 
+}
